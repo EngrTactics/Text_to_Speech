@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\bin\Debug\Text to Speech App.exe.config
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\bin\Debug\Text to Speech App.exe
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\bin\Debug\Text to Speech App.pdb
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App_MarkupCompile.cache
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App_MarkupCompile.lref
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.g.resources
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text_to_Speech_App.Properties.Resources.resources
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.exe
+C:\Users\user\source\repos\Text to Speech App\Text to Speech App\obj\Debug\Text to Speech App.pdb

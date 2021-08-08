@@ -1,0 +1,26 @@
+﻿<Window x:Class="Text_to_Speech_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Text_to_Speech_App"
+        mc:Ignorable="d"
+        Title="Text to Speech" Height="450" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Label Height="40" Content="Enter speech Here"
+                   HorizontalAlignment="Center" 
+                   FontSize="24"/>
+            <TextBox x:Name="Textbox1" Grid.Column="0" Width="350" Height="350" />
+        </StackPanel>
+
+        <Button x:Name="Read_Button" Grid.Column="1" Width="100" Height="100"
+                Background="#cccccc" BorderBrush="Snow"
+                Content="Read Speech" Click="Read_Button_Click"/>
+    </Grid>
+</Window>
